@@ -23,7 +23,7 @@ def get_txns_fee(_block):
 
 
 def get_block_reward(_block):
-    return config.STATIC_REWARD + get_txns_fee(_block) + len(_block['uncles']) * 5 / 32
+    return config.STATIC_REWARD + get_txns_fee(_block)
 
 
 def get_collection_by_key(map_, key):
