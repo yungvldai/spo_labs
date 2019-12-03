@@ -7,5 +7,5 @@
 
 ### Charts
 
-![](https://github.com/yungvldai/spo_labs/blob/master/lab5/lab5_chart1.png)
-![](https://github.com/yungvldai/spo_labs/blob/master/lab5/lab5_chart2.png)
+![](https://github.com/yungvldai/spo_labs/blob/master/lab5/media/lab5_chart1.png)
+![](https://github.com/yungvldai/spo_labs/blob/master/lab5/media/lab5_chart2.png)

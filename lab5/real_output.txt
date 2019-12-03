@@ -1,0 +1,127 @@
+Blocks from 8923400 to 8924400
+Thread #1 started
+Thread #2 started
+Thread #3 started
+Thread #4 started
+Thread #5 started
+Thread #6 started
+Thread #7 started
+Thread #8 started
+Thread #9 started
+Thread #10 started
+Thread #11 started
+Thread #12 started
+Thread #13 started
+Thread #14 started
+Thread #15 started
+Thread #16 started
+Thread #17 started
+Thread #18 started
+Thread #19 started
+Thread #20 started
+Thread #21 started
+Thread #22 started
+Thread #23 started
+Thread #24 started
+Thread #25 started
+Thread #26 started
+Thread #27 started
+Thread #28 started
+Thread #29 started
+Thread #30 started
+Thread #31 started
+Thread #32 started
+Thread #33 started
+Thread #34 started
+Thread #35 started
+Thread #36 started
+Thread #37 started
+Thread #38 started
+Thread #39 started
+Thread #40 started
+Thread #41 started
+Thread #42 started
+Thread #43 started
+Thread #44 started
+Thread #45 started
+Thread #46 started
+Thread #47 started
+Thread #48 started
+Thread #49 started
+Thread #50 started
+Thread #51 started
+Thread #52 started
+Thread #53 started
+Thread #54 started
+Thread #55 started
+Thread #56 started
+Thread #57 started
+Thread #58 started
+Thread #59 started
+Thread #60 started
+Thread #61 started
+Thread #62 started
+Thread #63 started
+Thread #64 started
+Thread #65 started
+Thread #66 started
+Thread #67 started
+Thread #68 started
+Thread #69 started
+Thread #70 started
+Thread #71 started
+Thread #72 started
+Thread #73 started
+Thread #74 started
+Thread #75 started
+Thread #76 started
+Thread #77 started
+Thread #78 started
+Thread #79 started
+Thread #80 started
+Thread #81 started
+Thread #82 started
+Thread #83 started
+Thread #61 8924000 @ 1/1000
+Thread #84 started
+Thread #85 started
+Thread #86 started
+Thread #87 started
+Thread #88 started
+Thread #75 8924140 @ 2/1000
+Thread #89 started
+Thread #90 started
+Thread #91 started
+Thread #92 started
+Thread #93 started
+Thread #94 started
+Thread #95 started
+Thread #82 8924210 @ 3/1000
+Thread #96 started
+Thread #97 started
+Thread #83 8924220 @ 4/1000
+Thread #98 started
+Thread #99 started
+Thread #100 started
+Thread #93 8924320 @ 5/1000
+Thread #44 8923830 @ 6/1000
+Thread #7 8923460 @ 7/1000
+
+...
+
+Thread #85 finished. Loaded blocks [8924240, 8924249].
+Thread #58 8923978 @ 992/1000
+Thread #54 8923939 @ 993/1000
+Thread #54 finished. Loaded blocks [8923930, 8923939].
+Thread #58 8923979 @ 994/1000
+Thread #58 finished. Loaded blocks [8923970, 8923979].
+Thread #63 8924029 @ 995/1000
+Thread #63 finished. Loaded blocks [8924020, 8924029].
+Thread #78 8924178 @ 996/1000
+Thread #56 8923958 @ 997/1000
+Thread #57 8923969 @ 998/1000
+Thread #57 finished. Loaded blocks [8923960, 8923969].
+Thread #56 8923959 @ 999/1000
+Thread #56 finished. Loaded blocks [8923950, 8923959].
+Thread #78 8924179 @ 1000/1000
+Thread #78 finished. Loaded blocks [8924170, 8924179].
